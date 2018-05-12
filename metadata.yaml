@@ -1,0 +1,36 @@
+_repo: Myths--amp--Legends-of-Japan_45723
+_version: 0.1.0
+alternative_title: Myths and Legends of Japan
+contributor:
+  illustrator:
+    agent_name: Paul, Evelyn
+    birthdate: 1883
+    deathdate: 1963
+    gutenberg_agent_id: '6441'
+    url: http://www.gutenberg.org/2009/agents/6441
+    wikipedia: http://en.wikipedia.org/wiki/Evelyn_Paul
+covers:
+- cover_type: archival
+  image_path: 45723-h/images/jap000_cover.jpg
+creator:
+  author:
+    agent_name: Davis, F. Hadland (Frederick Hadland)
+    alias: Davis, Frederick Hadland
+    gutenberg_agent_id: '6439'
+    url: http://www.gutenberg.org/2009/agents/6439
+description: ''
+gutenberg_issued: '2014-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45723'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Japan'
+- !lcsh 'Mythology, Japanese'
+- !lcsh 'Legends -- Japan'
+- !lcc 'GR'
+title: Myths & Legends of Japan
+url: http://www.gutenberg.org/ebooks/45723
