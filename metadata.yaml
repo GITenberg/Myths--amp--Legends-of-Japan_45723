@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '6439'
     url: http://www.gutenberg.org/2009/agents/6439
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45723#Myths--amp--Legends-of-Japan
 gutenberg_issued: '2014-05-23'
 gutenberg_type: Text
 identifiers:
